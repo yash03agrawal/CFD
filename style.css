@@ -1,0 +1,14 @@
+img {
+	margin:0 auto;
+	height: 500px;
+	width: 600px;
+	object-fit: contain;
+}
+
+.visible {
+	display: block;
+}
+
+.hidden {
+	display: none;
+}
